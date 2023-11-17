@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sara-chfifig
 - 👀 I’m interested in computer science
 - 🌱 I’m currently learning IT development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on cyber security
 - 📫 How to reach me chfifigsara@gmail.com
 
 <!---
